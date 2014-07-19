@@ -6,4 +6,4 @@ Reference: http://see.stanford.edu/materials/icspmcs106a/19-assignment-3-breakou
 This project took quite a while to finish and had a bunch of great problems. 
 Hope you have a bit of fun playing my game.
 
-- Zalan Khan 
+Zalan Khan 
