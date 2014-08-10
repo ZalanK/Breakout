@@ -160,19 +160,19 @@ public class Breakout extends GraphicsProgram {
 				//Set the colour of each brick which depends on its row. 
 				if (i < 2) {
 					brick.setColor(Color.RED);
-					}
-				if (i == 2 || i == 3) {
+				}
+				else if (i == 2 || i == 3) {
 					brick.setColor(Color.ORANGE);
-					}
-				if (i == 4 || i == 5) {
+				}
+				else if (i == 4 || i == 5) {
 					brick.setColor(Color.YELLOW);
-					}
-				if (i == 6 || i == 7) {
+				}
+				else if (i == 6 || i == 7) {
 					brick.setColor(Color.GREEN);
-					}
-				if (i == 8 || i == 9) {
+				}
+				else if (i == 8 || i == 9) {
 					brick.setColor(Color.CYAN);
-					}
+				}
 				
 				/* Additional bricks needed to be added to create the row. 
 				 * Thus we need to change the x-coordinates for the initialX for the loop.
